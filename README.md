@@ -1,3 +1,10 @@
+### save_csv 브랜치쪽 실행코드
+```bash
+python -m table_ocr.demo https://raw.githubusercontent.com/SOYOUNGdev/image-table-ocr/refs/heads/save_csv/resources/test_data/simple.png
+```
+
+
+
 
 # Table of Contents
 
