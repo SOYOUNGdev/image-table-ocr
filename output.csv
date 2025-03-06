@@ -1,0 +1,6 @@
+Cell,Format,Formula
+B4,Percentage,None
+C4,General,None
+D4,Accounting,None
+E4,Currency,"=PMT(B4/12,C4,D4)"
+F4,Currency,=E4*C4
