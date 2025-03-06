@@ -1,3 +1,8 @@
+### kor_eng_tbl 쪽 실행코드
+```bash
+python -m table_ocr.demo https://raw.githubusercontent.com/SOYOUNGdev/image-table-ocr/refs/heads/master/resources/examples/example-page.png
+```
+
 
 # Table of Contents
 
